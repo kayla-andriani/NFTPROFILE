@@ -1,4 +1,4 @@
-# NFT PROFILE PICTURE
+# NFT PROFILES PICTURES
 
 - 0xkayla (1).jpg
 - 0xkayla (2).jpg
